@@ -1,0 +1,1 @@
+The code aims to display information obtained from the bmp (atmospheric pressure and temperature), time and day of the week (for the moment in English) and data obtained from Home Assistant to be displayed on a 128x64 OLED screen. I would appreciate help displaying the days of the week in other languages. Thank you.
